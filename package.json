@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "node app.js",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [
     "shares"
