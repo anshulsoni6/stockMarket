@@ -1,0 +1,21 @@
+{
+  "name": "shares",
+  "version": "1.0.0",
+  "description": "share record keeping and analysis",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "google-stocks": "^2.0.1",
+    "mongoose": "^5.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "shares"
+  ],
+  "author": "Anshul Soni",
+  "license": "ISC"
+}
